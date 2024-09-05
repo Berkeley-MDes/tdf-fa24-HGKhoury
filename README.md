@@ -1,41 +1,25 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# ⭐Hanna Khoury's Amazing TDF Weekly Report Archive⭐
+Come back every week to see what exciting things Hanna is learning and making!
 
-# Outline
+---
+ 
+# Table of Contents
 [week 1](README.md#week-1-example-report-1)
 
-week 2, etc...
+week 2 Coming Soon✨
 
 ---
 
-# Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
-
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
-
-# Week 1: Example Report 1 #
+# Week 1: Introduction to the Maker Space #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This week, I wanted to become aquainted with the lasercutters and 3D printers available to me at Jacobs. I decided to alter a project I had worked on in the past, and make some wooden Dragonfly wing charms, for earings or a keychain. I made a mistake in my design, and accidentally cut off the rings, so I will alter the product to be a magnet, and I may in the future reattempt this design. 
+I also participated in the Form 3, and the Objet Connex workshops, to aquaint myself with the other printers we have accesible to us. 
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
 ---
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
 
 ## Quick Links, compiled here for your convenience: ##
 
