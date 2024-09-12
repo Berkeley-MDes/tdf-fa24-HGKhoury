@@ -4,16 +4,23 @@ Come back every week to see what exciting things Hanna is learning and making!
 ---
  
 # Table of Contents
-<p> 👾[Week 1](README.md#week-1-example-report-1)</p>
-<p></p>👾[Week 2](README.md#week-2-example-report-1)</p>
+
+ 👾[Week 1](README.md#week-1-example-report-1) <br/>
+
+👾[Week 2](README.md#week-2-example-report-1) <br/>
 Week 2 Coming Soon✨
 
 ---
+# Week 2: Becoming Better Aquainted with Grasshopper #
+## Week of 09/09/2024
+
+Over the weekend I tried to continue to go over the grasshopper tutorials, and was struggling a bit to understand how to read the files and create my own. I was able to play around with the sliders though, and that did help me understand a bit about how Grasshopper functioned (Images 2 and 3). <br/>
+During the class on Monday though, I attened the Grasshopper workshop, and understood a lot more of the structure, and the software really clicked with me. Looking to the future, I know that I tend to learn better from in-person workshops and tutorials, so I will strive to attend any office hours and workshops that are available to me.   <br/>
 
 # Week 1: Introduction to the Maker Space #
-## Week of 09/05/2024
+## Week of 09/02/2024
 
-This week, I wanted to become aquainted with the lasercutters and 3D printers available to me at Jacobs. I decided to alter a project I had worked on in the past, and make some wooden Dragonfly wing charms, for earings or a keychain. I made a mistake in my design, and accidentally cut off the rings, so I will alter the product to be a magnet, and I may in the future reattempt this design. I would also want to play around with different raster values, to have a cleaner look, and not have the wood look too singed.
+This week, I wanted to become aquainted with the lasercutters and 3D printers available to me at Jacobs. I decided to alter a project I had worked on in the past, and make some wooden Dragonfly wing charms, for earings or a keychain. I made a mistake in my design, and accidentally cut off the rings, so I will alter the product to be a magnet, and I may in the future reattempt this design. I would also want to play around with different raster values, to have a cleaner look, and not have the wood look too singed.<br/>
 I also participated in the Form 3, and the Objet Connex workshops, to aquaint myself with the other printers we have accesible to us. 
 
 <img width="200" alt="Dragon Fly Wings Laser Cut" src="assets/457506343_944092087459052_2121552059655123129_n.jpg"> <img width="200" alt="Dragon Fly Wings Laser Cut" src="assets/457595178_475195088825294_3265366156908878639_n.jpg">
