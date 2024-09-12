@@ -28,7 +28,7 @@ After the workshop, I wanted to play around myself with creating shapes, and mer
 
 I made this shape so that the radii of the cloud shperes could be changed, and therefore their placement relative to each other. However, while trying to create a shortcut to make a cloud shape, I accidentally created a croissant. While this was not the intended outcome, it was fun. I am not sure if the shapes actually "merged" together, and if I used the right command to do so, That is another aspect that I would like to take another look at.
 
-<p align="center"> <img width="500" alt="Experimenting in the Workshop" src="assets/Accidental Croissant.png"> </p> <br/> 
+<p align="center"> <img width="500" alt="Experimenting in the Workshop" src="assets/Accidental Croissant.png"></p> <br/> 
 
 
 # Week 1: Introduction to the Maker Space #
