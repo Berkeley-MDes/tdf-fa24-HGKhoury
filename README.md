@@ -7,15 +7,22 @@ Come back every week to see what exciting things Hanna is learning and making!
 
  👾[Week 1](README.md#week-1) <br/>
 
-👾[Week 2](README.md#week-2-example-report-1) <br/>
-Week 2 Coming Soon✨
+👾[Week 2](README.md#week-2-example-report-1) <br/><br/>
+Week 3 Coming Soon✨
 
 ---
 # Week 2: Becoming Better Aquainted with Grasshopper #
 ## Week of 09/09/2024
 
 Over the weekend I tried to continue to go over the grasshopper tutorials, and was struggling a bit to understand how to read the files and create my own. I was able to play around with the sliders though, and that did help me understand a bit about how Grasshopper functioned (Images 2 and 3). <br/>
+
+<img width="200" alt="Experimenting with Example Files" src="assets/Phone stand 1.png"> <img width="200" alt="Experimenting with Example Files" src="assets/Phone stand 2.png"><br/>
+
 During the class on Monday though, I attened the Grasshopper workshop, and understood a lot more of the structure, and the software really clicked with me. Looking to the future, I know that I tend to learn better from in-person workshops and tutorials, so I will strive to attend any office hours and workshops that are available to me.   <br/>
+<img width="200" alt="Experimenting in the Workshop" src="assets/Workshop Experiment.png"><br/>
+
+After the workshop, I wanted to play around myself with creating shapes, and merging 
+
 
 # Week 1: Introduction to the Maker Space #
 ## Week of 09/02/2024
