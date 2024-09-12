@@ -19,9 +19,16 @@ Over the weekend I tried to continue to go over the grasshopper tutorials, and w
 <img width="200" alt="Experimenting with Example Files" src="assets/Phone stand 1.png"> <img width="200" alt="Experimenting with Example Files" src="assets/Phone stand 2.png"><br/>
 
 During the class on Monday though, I attened the Grasshopper workshop, and understood a lot more of the structure, and the software really clicked with me. Looking to the future, I know that I tend to learn better from in-person workshops and tutorials, so I will strive to attend any office hours and workshops that are available to me.   <br/>
+
 <img width="200" alt="Experimenting in the Workshop" src="assets/Workshop Experiment.png"><br/>
 
-After the workshop, I wanted to play around myself with creating shapes, and merging 
+After the workshop, I wanted to play around myself with creating shapes, and merging bodies together to create more complex shapes. Coming from a mechanical engineering background, where I am used to using SolidWorks, it has been a bit challenging to switch my thinking process around CAD from Solidworks to Rhino/Grasshopper. I wanted to test out creating an adjustable cloud shape. <br/>
+
+<img width="200" alt="Experimenting in the Workshop" src="assets/Merge Testing.png"><br/>
+
+I made this shape so that the radii of the cloud shperes could be changed, and therefore their placement relative to each other. However, while trying to create a shortcut to make a cloud shape, I accidentally created a croissant. While this was not the intended outcome, it was fun. 
+
+<img width="200" alt="Experimenting in the Workshop" src="assets/Accidental Croissant.png"><br/>
 
 
 # Week 1: Introduction to the Maker Space #
