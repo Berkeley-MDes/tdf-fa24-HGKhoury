@@ -4,8 +4,8 @@ Come back every week to see what exciting things Hanna is learning and making!
 ---
  
 # Table of Contents
-👾[Week 1](README.md#week-1-example-report-1)
-👾[Week 2](README.md#week-2-example-report-1)
+<p> 👾[Week 1](README.md#week-1-example-report-1)</p>
+<p></p>👾[Week 2](README.md#week-2-example-report-1)</p>
 Week 2 Coming Soon✨
 
 ---
