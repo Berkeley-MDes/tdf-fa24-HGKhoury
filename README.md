@@ -7,10 +7,18 @@ Come back every week to see what exciting things Hanna is learning and making!
 
  👾[Week 1](README.md#week-1) <br/>
 
-👾[Week 2](README.md#week-2-example-report-1) <br/><br/>
+👾[Week 2](README.md#week-2) <br/>
+👾[Week 3](README.md#week-3) <br/><br/>
 Week 3 Coming Soon✨
 
 ---
+# Week 3: Becoming Better Aquainted with Grasshopper #
+## Week of 09/09/2024
+
+This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. After sitting in for some of Cody's office hours in the makerspace, I decided to have both wings be placed in the grasshopper file, as well as all the additional componant, and have them set up so that the user can laser cut their pieces. 
+ <p align="center"> <img width="300" alt="teardrop" src="assets/teardrop.png"><p align="center"> <img width="300" alt="basic wing" src="assets/basic wing.png">
+ <p align="center"> <img width="300" alt="teardrop" src="assets/bowl of spagetti.png">
+
 # Week 2: Becoming Better Aquainted with Grasshopper #
 ## Week of 09/09/2024
 
