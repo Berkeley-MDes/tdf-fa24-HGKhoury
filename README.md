@@ -10,7 +10,7 @@ Come back every week to see what exciting things Hanna is learning and making!
 👾[Week 2](README.md#week-2) <br/>
 
 👾[Week 3](README.md#week-3) <br/><br/>
-Week 3 Coming Soon✨
+Week 4 Coming Soon✨
 
 ---
 # Week 3: Becoming Better Aquainted with Grasshopper #
