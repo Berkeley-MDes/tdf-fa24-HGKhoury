@@ -5,9 +5,10 @@ Come back every week to see what exciting things Hanna is learning and making!
  
 # Table of Contents
 
- 👾[Week 1](README.md#week-1) <br/>
+👾[Week 1](README.md#week-1) <br/>
 
 👾[Week 2](README.md#week-2) <br/>
+
 👾[Week 3](README.md#week-3) <br/><br/>
 Week 3 Coming Soon✨
 
