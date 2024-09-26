@@ -9,19 +9,30 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 2](README.md#week-2) <br/>
 
-👾[Week 3](README.md#week-3) <br/><br/>
-Week 4 Coming Soon✨
+👾[Week 3](README.md#week-3) <br/>
+
+👾[Week 4](README.md#week-4) <br/><br/>
+
+Week 5 Coming Soon✨
 
 ---
+# Week 4: Analyzing my Device Ecosystem #
+## Week of 09/26/2024
+
+This week, in preparation for the second project, and for the homework, I brainstormed what devices and platforms I used on a regular basis and which ones 
+ <p align="center"> <img width="300" alt="Mapping Interactive Ecosystem" src="assets/Mapping interactive ecosystem.jpg"><br/> 
+
 # Week 3: Becoming Better Aquainted with Grasshopper #
 ## Week of 09/09/2024
 
-This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. After sitting in for some of Cody's office hours in the makerspace, I decided to have both wings be placed in the grasshopper file, as well as all the additional componant, and have them set up so that the user can laser cut their pieces. 
- <p align="center"> <img width="300" alt="teardrop" src="assets/teardrop.png"><p align="center"> <img width="300" alt="basic wing" src="assets/basic wing.png">
- <p align="center"> <img width="300" alt="teardrop" src="assets/bowl of spagetti.png">
+This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. 
+ <p align="center"> <img width="300" alt="teardrop" src="assets/teardrop.png"><br/> 
+ <p align="center"> <img width="450" alt="basic wing" src="assets/basic wing.png"><br/> 
+  After sitting in for some of Cody's office hours in the makerspace, I decided to have both wings be placed in the grasshopper file, as well as all the additional componant, and have them set up so that the user can laser cut their pieces. <br/> 
+ <p align="center"> <img width="700" alt="teardrop" src="assets/bowl of spagetti.png"><br/> 
 
 # Week 2: Becoming Better Aquainted with Grasshopper #
-## Week of 09/09/2024
+## Week of 09/19/2024
 
 Over the weekend I tried to continue to go over the grasshopper tutorials, and was struggling a bit to understand how to read the files and create my own. I was able to play around with the sliders though, and that did help me understand a bit about how Grasshopper functioned (Images 2 and 3). <br/>
 
