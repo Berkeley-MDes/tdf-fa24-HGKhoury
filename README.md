@@ -20,7 +20,7 @@ Week 5 Coming Soon✨
 ## Week of 09/26/2024
 
 This week, in preparation for the second project, and for the homework, I brainstormed what devices and platforms I used on a regular basis, and due to the fact that I do not support the over complication of household processes and am careful to have to omuch of my data recorded, the only ecosystem that collects my data on a daily basis (that I am aware of and consent to) is my health and fitness tracking ecosystem. I created a concept maps of the different technologies and platforms that I use to collect and analyze my health and fitness data. <br/>
- <p align="center"> <img width="300" alt="Mapping Interaction Ecosystem" src="assets/Mapping Interaction ecosystem.jpg"><br/> 
+ <p align="center"> <img width="300" alt="Mapping Interaction Ecosystem" src="assets/Mapping Interaction ecosystem.jpg"></p><br/> 
  Going in to the future, corporations will attempt to collect even more of users' personal data, for botht their own internal analysis to track the usage of their products to be able to make better products, as well as continuing to sell our data for additional profit. I think there is a serious conversation that we as designers using emerging technology need to have regarding the collection, storage, and usage of consumer data. As well as users, we need to discuss "Is convenience worth having our data being sold without our consent?" 
 
 # Week 3: Becoming Better Aquainted with Grasshopper #
