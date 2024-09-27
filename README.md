@@ -28,10 +28,10 @@ This week, in preparation for the second project, and for the homework, I brains
 
 This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. I first started with ideation and sketches
 <p align="center"> <img width="300" alt="Ideation" src="assets/ideation.jpg"><br/> 
- <p align="center"> <img width="300" alt="Ideation" src="assets/Necklace sketch.jpg"><br/> 
+ <p align="center"> <img width="300" alt="Ideation" src="assets/Necklace sketch.jpg"><br/> </p>
  Then I started making some experiments.
  <p align="center"> <img width="300" alt="teardrop" src="assets/teardrop.png"><br/> 
- <p align="center"> <img width="450" alt="basic wing" src="assets/basic wing.png"><br/> 
+ <p align="center"> <img width="450" alt="basic wing" src="assets/basic wing.png"><br/> </p>
   After sitting in for some of Cody's office hours in the makerspace, I decided to have both wings be placed in the grasshopper file, as well as all the additional componant, and have them set up so that the user can laser cut their pieces. <br/> 
  <p align="center"> <img width="700" alt="teardrop" src="assets/bowl of spagetti.png"><br/> 
 Having worked on this project very intensly the past week, I am quite proud of the progress that I made in a software that I had never used prior to this class. I hope i will be able to continue to develop my experience in Rhino and Grasshopper, and find more uses that are more applicable to my envisioned career path. 
