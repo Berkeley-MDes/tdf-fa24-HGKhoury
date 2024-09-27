@@ -23,10 +23,13 @@ This week, in preparation for the second project, and for the homework, I brains
  <p align="center"> <img width="300" alt="Mapping Interaction Ecosystem" src="assets/Mapping Interaction ecosystem.jpg"></p><br/> 
  Going in to the future, corporations will attempt to collect even more of users' personal data, for botht their own internal analysis to track the usage of their products to be able to make better products, as well as continuing to sell our data for additional profit. I think there is a serious conversation that we as designers using emerging technology need to have regarding the collection, storage, and usage of consumer data. As well as users, we need to discuss "Is convenience worth having our data being sold without our consent?" 
 
-# Week 3: Becoming Better Aquainted with Grasshopper #
+# Week 3: Working on Project 1 #
 ## Week of 09/09/2024
 
-This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. 
+This week, I continued to work on my computational design project. I started by creating a customizable tear drop shape, then moved into creating a shape more similarly to a wing. I first started with ideation and sketches
+<p align="center"> <img width="300" alt="Ideation" src="assets/ideation.jpg"><br/> 
+ <p align="center"> <img width="300" alt="Ideation" src="assets/Necklace sketch.jpg"><br/> 
+ Then I started making some experiments.
  <p align="center"> <img width="300" alt="teardrop" src="assets/teardrop.png"><br/> 
  <p align="center"> <img width="450" alt="basic wing" src="assets/basic wing.png"><br/> 
   After sitting in for some of Cody's office hours in the makerspace, I decided to have both wings be placed in the grasshopper file, as well as all the additional componant, and have them set up so that the user can laser cut their pieces. <br/> 
