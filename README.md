@@ -11,11 +11,34 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 3](README.md#week-3) <br/>
 
-👾[Week 4](README.md#week-4) <br/><br/>
+👾[Week 4](README.md#week-4) <br/>
 
-Week 5 Coming Soon✨
+👾[Week 5](README.md#week-5) <br/><br/>
+
+Week 6 Coming Soon✨
 
 ---
+# Week 5: Running thourgh the Photon Tutorial #
+## Week of 10/03/2024
+
+This week, I went through three of the Photon tutorials that were required of us. I did the button -> pulse rate, FSR->LED color, and Publish/Subscibe introduction tutorials. I found the first two tutorials to be straightforward, as I have coding and circuitry experience prior to this class. For the Publish/Subscribe tutorial, I worked alongside Roopa and used her photon as the additional device. <br/>
+For the button-> pulse rate tutorial, i found it pretty easy. It did require me to change the circuit compared to the tutorial, as the tutorial requested we use a four legged button, and we were only provided with two legged buttons. To achieve the tutorial, I put the resistor in series with the button, and managed to have the same outcome. <br/>
+
+https://github.com/user-attachments/assets/38f87b40-5109-4f4f-b34a-82566af19cce <br/>
+
+For the FSR -> LED color tutorial, I also had no difficulties, except with the pressure sensor itself. I found it to be not very sensitive, and had challenges with it sensing when I was pressing it. <br/>
+
+https://github.com/user-attachments/assets/6d4be4a8-3ec7-454e-a1a6-3b6205454dea <br/>
+
+For the last tutorial, I did the Publish/Subscribe introduction tutorial. This tutorial proved to be the most challenging, as the code that was in the downloadable file for "subscribe" was not the same as was published on the tutorial page. The code on the tutorial page worked, though I had to not replace the "publish" code in entirety, and kept components of it. I worked with Roopa, and we exchanged turns with which photon would "publish" and which would "subscribe". 
+![461625669_1050731346279383_3383859671824416698_n](https://github.com/user-attachments/assets/5288af95-ae7d-492f-a833-fc064354a27c)
+![461801678_1066060581835200_4587521538833156291_n](https://github.com/user-attachments/assets/c8eba860-6802-4e91-b9dd-07155d85b9fd)
+![461817677_559150339815206_4737790611122618186_n](https://github.com/user-attachments/assets/dfe098e9-802f-483f-a8ba-e5fa997a9514)
+
+
+
+
+
 # Week 4: Analyzing my Device Ecosystem #
 ## Week of 09/26/2024
 
