@@ -21,7 +21,10 @@ Week 6 Coming Soon✨
 # Week 5: Running thourgh the Photon Tutorial #
 ## Week of 10/03/2024
 
-This week, I went through three of the Photon tutorials that were required of us. I did the button -> pulse rate, FSR->LED color, and Publish/Subscibe introduction tutorials. I found the first two tutorials to be straightforward, as I have coding and circuitry experience prior to this class. For the Publish/Subscribe tutorial, I worked alongside Roopa and used her photon as the additional device. <br/>
+This week, I went through three of the Photon tutorials that were required of us, as well as the three "introductory" code. I also wanted to challenge myself, and wrote a blink code from scratch, and flashed it to my photon, to have the on board LED blink, and have the serial monitor print when the LED was on and when it was off. <br/>
+<p align= "center"> <img width="590"  src="https://github.com/user-attachments/assets/f27ab0c7-7761-4b2c-9547-4eecc1ae52db"> <br/></p>
+ 
+I did the button -> pulse rate, FSR->LED color, and Publish/Subscibe introduction tutorials. I found the first two tutorials to be straightforward, as I have coding and circuitry experience prior to this class. For the Publish/Subscribe tutorial, I worked alongside Roopa and used her photon as the additional device. <br/>
 For the button-> pulse rate tutorial, i found it pretty easy. It did require me to change the circuit compared to the tutorial, as the tutorial requested we use a four legged button, and we were only provided with two legged buttons. To achieve the tutorial, I put the resistor in series with the button, and managed to have the same outcome. <br/>
 
 https://github.com/user-attachments/assets/38f87b40-5109-4f4f-b34a-82566af19cce <br/>
@@ -31,11 +34,8 @@ For the FSR -> LED color tutorial, I also had no difficulties, except with the p
 https://github.com/user-attachments/assets/6d4be4a8-3ec7-454e-a1a6-3b6205454dea <br/>
 
 For the last tutorial, I did the Publish/Subscribe introduction tutorial. This tutorial proved to be the most challenging, as the code that was in the downloadable file for "subscribe" was not the same as was published on the tutorial page. The code on the tutorial page worked, though I had to not replace the "publish" code in entirety, and kept components of it. I worked with Roopa, and we exchanged turns with which photon would "publish" and which would "subscribe". 
-![461625669_1050731346279383_3383859671824416698_n](https://github.com/user-attachments/assets/5288af95-ae7d-492f-a833-fc064354a27c)
-![461801678_1066060581835200_4587521538833156291_n](https://github.com/user-attachments/assets/c8eba860-6802-4e91-b9dd-07155d85b9fd)
-![461817677_559150339815206_4737790611122618186_n](https://github.com/user-attachments/assets/dfe098e9-802f-483f-a8ba-e5fa997a9514)
-
-
+<p align="center"> <img width="300" src=https://github.com/user-attachments/assets/5288af95-ae7d-492f-a833-fc064354a27c> <img width="300" src=https://github.com/user-attachments/assets/c8eba860-6802-4e91-b9dd-07155d85b9fd>  <img width="300" src=https://github.com/user-attachments/assets/dfe098e9-802f-483f-a8ba-e5fa997a9514> <br/> </p>
+Overall, I found the tutorials easy
 
 
 
