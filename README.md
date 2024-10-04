@@ -86,7 +86,7 @@ This week, I wanted to become aquainted with the lasercutters and 3D printers av
 I also participated in the Form 3, and the Objet Connex workshops, to aquaint myself with the other printers we have accesible to us. 
 
 <img width="200" alt="Dragon Fly Wings Laser Cut" src="assets/457506343_944092087459052_2121552059655123129_n.jpg"> <img width="200" alt="Dragon Fly Wings Laser Cut" src="assets/457595178_475195088825294_3265366156908878639_n.jpg">
----
+-------------------------------------------------
 
 
 ## Quick Links, compiled here for your convenience: ##
