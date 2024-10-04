@@ -35,8 +35,8 @@ https://github.com/user-attachments/assets/6d4be4a8-3ec7-454e-a1a6-3b6205454dea 
 
 For the last tutorial, I did the Publish/Subscribe introduction tutorial. This tutorial proved to be the most challenging, as the code that was in the downloadable file for "subscribe" was not the same as was published on the tutorial page. The code on the tutorial page worked, though I had to not replace the "publish" code in entirety, and kept components of it. I worked with Roopa, and we exchanged turns with which photon would "publish" and which would "subscribe". 
 <p align="center"> <img width="300" src=https://github.com/user-attachments/assets/5288af95-ae7d-492f-a833-fc064354a27c> <img width="300" src=https://github.com/user-attachments/assets/c8eba860-6802-4e91-b9dd-07155d85b9fd>  <img width="300" src=https://github.com/user-attachments/assets/dfe098e9-802f-483f-a8ba-e5fa997a9514> <br/> </p>
-Overall, I found the tutorials easy
 
+Overall, I found the tutorials easy. Reflecting on the differences between the code of these tutorials, in comparison to the tutorials taht we explored in class on monday, these have a lot more "constants" to identify the pins. As well, these tutorials contain functions. I have a basic understanding of functions, and am looking forward to exploring them more, and becoming more comfortable with coding architecture. In the future, it will be interesting to see how these funtions can be used in combinations to develop a more complex physical system. 
 
 
 # Week 4: Analyzing my Device Ecosystem #
