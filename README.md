@@ -23,7 +23,8 @@ Week 7 Coming Soon✨
 # Week 6: Starting work on project 2 #
 ## Week of 10/10/2024
 
-This week...
+This week I was out of town over the weekend, and therefore became behind with some of the tutorials. I soldered my stemma. 
+We made groups for project 2, I joined Sylvie and Roopa in a group, and we are creating an assistive digital and physical ecosystem that will help promote efficiency and productivity. 
 
 # Week 5: Running thourgh the Photon Tutorial #
 ## Week of 10/03/2024
