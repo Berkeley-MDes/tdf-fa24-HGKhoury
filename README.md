@@ -13,11 +13,18 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 4](README.md#week-4) <br/>
 
-👾[Week 5](README.md#week-5) <br/><br/>
+👾[Week 5](README.md#week-5) <br/>
 
-Week 6 Coming Soon✨
+👾[Week 6](README.md#week-6) <br/><br/>
+
+Week 7 Coming Soon✨
 
 ---
+# Week 6: Starting work on project 2 #
+## Week of 10/10/2024
+
+This week...
+
 # Week 5: Running thourgh the Photon Tutorial #
 ## Week of 10/03/2024
 
