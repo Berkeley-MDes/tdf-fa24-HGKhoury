@@ -26,7 +26,12 @@ Week 8 Coming Soon✨
 ## Week of 10/17/2024
 
 This week I my team and I continued to work on out project, the Productivity Plant. We created a sketch to understand how our wearable and the plant itself will be set up.<br/>
-<p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/c654ec2e-a108-4f37-bd35-ac7227b88491"> <img width="300"  src="https://github.com/user-attachments/assets/885518bc-e63e-420a-b851-f822371fa081"> </p>
+<p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/c654ec2e-a108-4f37-bd35-ac7227b88491"> <img width="300"  src="https://github.com/user-attachments/assets/885518bc-e63e-420a-b851-f822371fa081"><br/> </p>
+
+
+https://github.com/user-attachments/assets/e9cefc4f-70d3-4564-ae82-7242076e0086 <br/>
+
+
 We started to work on testing out our different inputs and outputs, fabricate, and set up the code architechture. As the programming lead, I started to work on the coding architecture, and assisted Roopa with the code as she was setting up the hardware. As well, as the fabrication and circuitry consultant, I assisted Sylvie with becoming more comfortable with Fusion 360, and assisted Roopa with ensuring she was wiring up the circuits correctly. 
 <p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/ee1c490b-3619-4a46-985a-8d914424141a)"><br/></p>
 I speculate that during this upcomming weekend, my team will meet up again to continue our work, and as well, a lot more responsibility will lay on me as the fabrication and hardware components become finalized, and the programming will have to start to come together. 
