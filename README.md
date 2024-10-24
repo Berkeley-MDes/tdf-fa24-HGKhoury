@@ -17,11 +17,25 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 6](README.md#week-6) <br/>
 
-👾[Week 7](README.md#week-7) <br/><br/>
+👾[Week 7](README.md#week-7) <br/>
 
-Week 8 Coming Soon✨
+👾[Week 8](README.md#week-8) <br/><br/>
+
+Week 9 Coming Soon✨
 
 ---
+# Week 9: Finalizing the Productivity Plant #
+## Week of 10/24/2024
+
+This week I my team and I finalized the work on our Productivity Plant project. We continued to work on it over the weekend, as we had to do some debugging on our code, as the placement of certain functions within our "loop" was causing our Plant to either not move, or move when it should not have. Eventually we figured out where the functions needed to be placed, and were able to get the photons to communicate with one another, and have all our outputs react as we intended them to. The next steps were to calibrate our inputs, specifically the loudness sensor and the accelerometer, to be able to properly detect when our user was moving or talking. I also helped coach Roopa to solder our button to longer lead wires, so that we could have longer reach on our circuit.<br/>
+
+<p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/bad5a7c7-8bdd-448b-9e18-06b79185b2ab"> <img width="300"  src="https://github.com/user-attachments/assets/49b92a2f-34be-4d3e-9a9e-7b206d938f35"><br/> </p>
+
+
+https://github.com/user-attachments/assets/f6498ec1-8a10-405d-8658-a8cb5e6ae098
+
+
+
 # Week 7: Continuing work on project 2 #
 ## Week of 10/17/2024
 
