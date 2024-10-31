@@ -19,11 +19,27 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 7](README.md#week-7) <br/>
 
-👾[Week 8](README.md#week-8) <br/><br/>
+👾[Week 8](README.md#week-8) <br/>
 
-Week 9 Coming Soon✨
+👾[Week 9](README.md#week-9) <br/><br/>
+
+Week 10 Coming Soon✨
 
 ---
+# Week 10: Experimenting with ZeroWidth#
+## Week of 10/24/2024
+
+This week, I followed the tutorials created by the teaching team to have a better understanding of the ZeroWidth Sandbox. I was able to complete 3 out of the 4 tutorials, as I ran out of time and had to finish up other assignments. It was quite interesting to use the sandbox, and I had fun creating a LLM using a "knowledge" base sourced from the essaies I wrote for UC Berkeley for the MDes Program. I think that there is some fine tuning that would be required of it, but I am excited to see how I can play around with it for this project.<br/>
+
+<p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/0221d039-99cd-48d7-95a2-79484af494a9"> <img width="300"  src="https://github.com/user-attachments/assets/bc395792-f3ef-492e-87f1-75e66d880325"><br/> </p>
+
+For some reason, I kept running into an error when using the "test agent flow" function, and would have to publish my flow and refresh the page to have it work and respond to me. As well, I thought it was interesting that when asked about "Hanna Khoury" the bot automatically assumed that I was a man, and used He/Him pronouns to describe me. That is a possiblie issue in the OpenAI GPT 4.0 LLM. When I input the text "knowledge base" of my essaies, and used She/Her pronouns to describe myself, the bot was able to gender me correctly. <br/>
+
+<p align= "center"> <img width="300"  src="https://github.com/user-attachments/assets/f1b5056a-ca39-456a-a7dd-fcde0d54653d"> <br/> </p>
+
+I speculate that this will be the future for essay writing. If I were to input every essay I had ever written into an LLM and taught it to use my prose, then I would not have to write as many essaies in the future. This could be dangerous because part of the learning of writing essaies is to reflect and think about your knowledge, and be able to challenge yourself to communicate your thoughts effectivley to the reader. 
+
+
 # Week 9: Finalizing the Productivity Plant #
 ## Week of 10/24/2024
 
