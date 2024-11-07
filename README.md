@@ -23,9 +23,28 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 9](README.md#week-9) <br/><br/>
 
+👾[Week 10](README.md#week-10) <br/><br/>
+
+👾[Week 11](README.md#week-11) <br/><br/>
+
 Week 10 Coming Soon✨
 
 ---
+# Week 11: Advancing with ZeroWidth LLMs# 
+## Week of 10/31/2024 - 11/7/2024
+
+This week, I dedicated my efforts to expanding my knowledge and skills in using ZeroWidth for developing different large language models (LLMs). Building on the foundational tutorials I completed previously, I delved deeper into the capabilities and customization options ZeroWidth offers. Throughout the week, I managed to develop several prototypes of LLMs with varying focuses and learned a significant amount from the process.
+
+One of my major learnings was the importance of context when training LLMs. I discovered how adjusting the context and specificity of the training data could influence the outputs the model generated. This understanding came through trial and error as I experimented with different datasets, noticing how the machine's "interpretation" could vary widely depending on the input.
+
+Another crucial aspect I learned was the power of fine-tuning. While I had some experience with this in previous weeks, this week provided a much clearer picture of its intricacies, allowing me to refine the performance of my LLMs significantly. Fine-tuning not only enhanced the coherence and relevance of the generated text but also enabled me to align the outputs more closely with my intended outcomes.
+
+Working with ZeroWidth also taught me the importance of continuous testing and iteration. After resolving the prior week's issues with the "test agent flow" function, I was able to implement a more efficient process for testing my models. This iterative approach was invaluable in identifying shortcomings and improvements areas, directly influencing the effectiveness and fluency of the LLMs I developed.
+
+Additionally, this week spurred my curiosity about ethical and bias concerns in AI. I observed that the system could occasionally reflect implicit biases in its language generation, which prompted me to explore ways to mitigate these effects. This experience underscored the critical need for conscientious data selection and sensitivity to language dynamics during the development process.
+
+Overall, this week's journey with ZeroWidth was both fulfilling and enlightening. I now have a deeper comprehension of the technical and ethical dimensions of developing LLMs, positioning me to refine and innovate further in my projects. As I look ahead, I intend to continue analyzing the role of biases in AI and work towards creating LLMs that are not only effective but also ethically sound.
+
 # Week 10: Experimenting with ZeroWidth#
 ## Week of 10/24/2024
 
