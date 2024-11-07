@@ -21,13 +21,13 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 8](README.md#week-8) <br/>
 
-👾[Week 9](README.md#week-9) <br/><br/>
+👾[Week 9](README.md#week-9) <br/>
 
-👾[Week 10](README.md#week-10) <br/><br/>
+👾[Week 10](README.md#week-10) <br/>
 
 👾[Week 11](README.md#week-11) <br/><br/>
 
-Week 10 Coming Soon✨
+Week 12 Coming Soon✨
 
 ---
 # Week 11: Advancing with ZeroWidth LLMs# 
