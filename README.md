@@ -38,6 +38,10 @@ During this week, I delved deeper into utilizing ZeroWidth to develop different 
 The highlight of the week was experimenting with the customization options available for language models within ZeroWidth. I explored how various parameters influenced the output and behavior of the models, thereby gaining insights into fine-tuning techniques essential for optimizing performance. An important takeaway was understanding the significance of training data diversity. The models' ability to generalize and provide coherent responses was heavily reliant on the variety and richness of the data inputted into them.
 
 However, the most fascinating aspect lay in developing an LLM inspired by my father. Attempting to digitize his counsel and supportive tone opened up considerations around the emotive qualities of language that purely technical efforts may overlook. The technical steps—feeding his previous emails and communication samples to the LLM—were straightforward. Yet, the challenge was preserving his distinct warmth, wisdom, and sometimes subtly humorous undertones, which seemed to be a testament to the intricacies of human language.
+![image](https://github.com/user-attachments/assets/3a461cae-fa86-4553-9a64-a2ffbf4b4872) ![image](https://github.com/user-attachments/assets/c7ef765a-7926-4b6d-8f89-a748feaefa9b) ![image](https://github.com/user-attachments/assets/92e58bb7-8dfb-4d0d-9923-17d05865b812)
+
+
+
 
 Reflecting on my learnings, I realized the significant potential of ZeroWidth as a transformative tool in educational and creative writing fields. By allowing users to input personalized writing styles and vocabulary, ZeroWidth can democratize access to writing assistance, enabling individuals to refine their writing skills through AI collaboration effectively. However, I am also cognizant of the ethical considerations this presents, particularly in preserving the reflective aspect of writing as a learning process.
 
