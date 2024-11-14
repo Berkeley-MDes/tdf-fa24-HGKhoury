@@ -25,11 +25,20 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 10](README.md#week-10) <br/>
 
-👾[Week 11](README.md#week-11) <br/><br/>
+👾[Week 11](README.md#week-11) <br/>
 
-Week 12 Coming Soon✨
+👾[Week 12](README.md#week-12) <br/><br/>
+
+Week 13 Coming Soon✨
 
 ---
+# Week 12: TDF Hiatus# 
+## Week of 11/7/2024 - 11/14/2024
+
+During the week of November 7-14, 2024, I found myself with a brief academic pause as our Technology Design Foundations class did not meet due to the observance of Veterans Day. Seizing this opportunity, I dedicated significant time to advancing the Project 3 report. Diving deep into the research phase, I focused on consolidating the findings and insights gathered from our project development. This involved meticulously analyzing our design process, outcomes, and the feedback received during previous presentations. It was a productive week that allowed me to refine the report's structure and ensure that each section comprehensively articulates our journey and solutions.
+
+In parallel, I allocated time to work on the weekly report, ensuring I stayed on top of documenting my ongoing learning experiences and project progress. This report is crucial as it not only provides a timeline of my activities but also encourages reflection on how each task contributes to my overarching educational goals. I took this weekly update as an opportunity to intricately link my learnings from the Project 3 work with broader design principles, helping me reinforce my understanding of the subject matter. This dedicated time for reflection and documentation has been invaluable, allowing me to align my efforts with both immediate project goals and long-term career aspirations.
+
 # Week 11: Advancing with ZeroWidth LLMs# 
 ## Week of 10/31/2024 - 11/7/2024
 
