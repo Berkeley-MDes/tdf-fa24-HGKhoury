@@ -27,11 +27,22 @@ Come back every week to see what exciting things Hanna is learning and making!
 
 👾[Week 11](README.md#week-11) <br/>
 
-👾[Week 12](README.md#week-12) <br/><br/>
+👾[Week 12](README.md#week-12) <br/>
 
-Week 13 Coming Soon✨
+👾[Week 13](README.md#week-13) <br/><br/>
+
+Week 14 Coming Soon✨
 
 ---
+# Week 12: Crafting a Proposal for an UX LLM Focused on User Research# 
+## Week of 11/7/2024 - 11/14/2024
+
+This week, I devoted significant time to developing a proposal for creating a UX Language Model (LLM) centered on enhancing user research processes. 
+
+In writing the proposal, I enhanced my skills in articulating complex ideas clearly and persuasively. I had to balance technical feasibility with creative vision, which challenged me to think critically and innovatively. I also gained deeper insights into the ethical considerations essential to developing AI tools, especially concerning user data privacy and representation accuracy.
+
+Looking forward, I speculate that refining this UX LLM could revolutionize user research by significantly reducing the time and resources required for comprehensive analysis and understanding of user needs. If implemented, it could democratize access to advanced UX insights, allowing even small teams to leverage sophisticated tools. This could lead to more user-centric product designs, fostering innovation across industries. As I continue to refine this proposal, I plan to explore partnerships with organizations in the UX field to validate and potentially pilot the concepts laid out in my proposal. This project marks an exciting step in merging technology with user experience to drive more intuitive and effective designs.
+
 # Week 12: TDF Hiatus# 
 ## Week of 11/7/2024 - 11/14/2024
 
