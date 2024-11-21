@@ -34,7 +34,7 @@ Come back every week to see what exciting things Hanna is learning and making!
 Week 14 Coming Soon✨
 
 ---
-# Week 12: Crafting a Proposal for an UX LLM Focused on User Research# 
+# Week 13: Crafting a Proposal for an UX LLM Focused on User Research# 
 ## Week of 11/7/2024 - 11/14/2024
 
 This week, I devoted significant time to developing a proposal for creating a UX Language Model (LLM) centered on enhancing user research processes. 
